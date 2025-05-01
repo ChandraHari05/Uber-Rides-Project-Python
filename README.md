@@ -171,7 +171,7 @@ sns.heatmap(numeric_dataset.corr(),
 
 output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/ebe81e87b04f5ec12ddc77cd6efc00ee71be20ad/project_details/Visualisations/heatmao.jpg.png)
 
 ___Insights from the heatmap:___
 
