@@ -247,7 +247,7 @@ sns.boxplot(dataset[dataset['MILES']<100]['MILES'])
 
 Output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/dbbd73b35a14be3b837789eb1fcef20e677fb230/project_details/Visualisations/boxplot_less%20than%2010.jpg.png)
 
 It’s bit visible. But to get more clarity we can use distplot for values less than 40.
 
