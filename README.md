@@ -106,7 +106,7 @@ unique_values
 
 output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/3371a04b7837be252fad02227354fc5fb386f8b0/project_details/Screenshots/dataset_visual.png)
 
 we will be using matplotlib and seaborn library for countplot the CATEGORY and PURPOSE columns.
 
