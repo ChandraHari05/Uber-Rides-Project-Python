@@ -257,7 +257,7 @@ sns.histplot(dataset[dataset['MILES']<40]['MILES'])
 
 Output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/46ee7ace6a9ff631450436a05f65cee9b23c003f/project_details/Visualisations/histoplot.jpg.png)
 
 ___Insights from the above plots :___
 
