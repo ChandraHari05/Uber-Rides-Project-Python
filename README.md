@@ -45,7 +45,7 @@ dataset.info()
 
 output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/e2e37e0f214d4696386091718ea56c858c021402/project_details/Screenshots/dataset_shape.png)
 
 # Data Preprocessing
 
