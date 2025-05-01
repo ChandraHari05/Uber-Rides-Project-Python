@@ -209,7 +209,7 @@ ___Insights from the above plot :___
 
 * **Still its very clear that the counts are very less during Nov, Dec, Jan, which justifies the fact that  time winters are there in Florida, US.**
 
-* ___Visualization for days data.___
+___Visualization for days data.___
 
 ```
 dataset['DAY'] = dataset.START_DATE.dt.weekday
