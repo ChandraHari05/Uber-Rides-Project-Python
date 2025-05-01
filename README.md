@@ -35,7 +35,7 @@ dataset.shape
 
 Output:
 
-![image alt]()
+![image alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/222cbb2a4a9a8f8dbe0545282234807487c29795/project_details/Screenshots/dataset_info.png)
 
 To know about the null values count, datatype, etc. So for that we will use the below code.
 
