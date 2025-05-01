@@ -148,7 +148,7 @@ plt.show()
 
 output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/8d8da605849191f565068fd351e649a970f26462/project_details/Visualisations/countplot%20purpose%20%26%20cato.jpg.png)
 
 # The above count-plots shows :
 
