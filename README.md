@@ -124,7 +124,7 @@ plt.xticks(rotation=90)
 
 output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/c1e9cdda60645f46aedb54c39fed447cd411301c/project_details/Visualisations/countplot.jpg.png)
 
 We do the same for time column, here we will be using the time column which we have extracted above.
 
