@@ -43,7 +43,7 @@ To know about the null values count, datatype, etc. So for that we will use the 
 dataset.info()
 ```
 
-output:
+Output:
 
 ![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/e2e37e0f214d4696386091718ea56c858c021402/project_details/Screenshots/dataset_shape.png)
 
@@ -104,7 +104,7 @@ for col in object_cols:
 unique_values
 ```
 
-output:
+Output:
 
 ![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/3371a04b7837be252fad02227354fc5fb386f8b0/project_details/Screenshots/dataset_visual.png)
 
@@ -122,7 +122,7 @@ sns.countplot(dataset['PURPOSE'])
 plt.xticks(rotation=90)
 ```
 
-output:
+Output:
 
 ![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/c1e9cdda60645f46aedb54c39fed447cd411301c/project_details/Visualisations/countplot.jpg.png)
 
@@ -133,7 +133,7 @@ sns.countplot(dataset['day-night'])
 plt.xticks(rotation=90)
 ```
 
-output:
+Output:
 
 ![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/0bcaff40fde27682a0e8e4c9ed81aad35e8609a6/project_details/Visualisations/countplot_day%26night.jpg.png)
 
@@ -146,7 +146,7 @@ plt.xticks(rotation=90)
 plt.show()
 ```
 
-output:
+Output:
 
 ![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/8d8da605849191f565068fd351e649a970f26462/project_details/Visualisations/countplot%20purpose%20%26%20cato.jpg.png)
 
@@ -169,7 +169,7 @@ sns.heatmap(numeric_dataset.corr(),
             annot=True)
 ```
 
-output:
+Output:
 
 ![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/ebe81e87b04f5ec12ddc77cd6efc00ee71be20ad/project_details/Visualisations/heatmao.jpg.png)
 
@@ -199,9 +199,9 @@ p = sns.lineplot(data=df)
 p.set(xlabel="MONTHS", ylabel="VALUE COUNT")
 ```
 
-output:
+Output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/8036545473e9690aa03ce164e46f52539e9f5dee/project_details/Visualisations/lineplot.jpg.png)
 
 ___Insights from the above plot :___
 
@@ -225,7 +225,7 @@ plt.xlabel('DAY')
 plt.ylabel('COUNT')
 ```
 
-output:
+Output:
 
 ![image_alt]()
 
@@ -235,7 +235,7 @@ We can use boxplot to check the distribution of the column.[MILES]
 sns.boxplot(dataset['MILES'])
 ```
 
-output:
+Output:
 
 ![image_alt]()
 
@@ -245,7 +245,7 @@ As the graph is not clearly understandable. Let’s zoom in it for values lees t
 sns.boxplot(dataset[dataset['MILES']<100]['MILES'])
 ```
 
-output:
+Output:
 
 ![image_alt]()
 
@@ -255,7 +255,7 @@ It’s bit visible. But to get more clarity we can use distplot for values less 
 sns.histplot(dataset[dataset['MILES']<40]['MILES'])
 ```
 
-output:
+Output:
 
 ![image_alt]()
 
