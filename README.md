@@ -237,7 +237,7 @@ sns.boxplot(dataset['MILES'])
 
 Output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/d0cdc67297c7b7f00cf5f8f373c60f40596e11d0/project_details/Visualisations/boxplot.jpg.png)
 
 As the graph is not clearly understandable. Let’s zoom in it for values lees than 100.
 
