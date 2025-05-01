@@ -135,7 +135,7 @@ plt.xticks(rotation=90)
 
 output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/0bcaff40fde27682a0e8e4c9ed81aad35e8609a6/project_details/Visualisations/countplot_day%26night.jpg.png)
 
 we will be comparing the two different categories along with the PURPOSE of the user.
 
