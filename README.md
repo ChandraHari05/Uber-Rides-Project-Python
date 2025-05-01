@@ -227,7 +227,7 @@ plt.ylabel('COUNT')
 
 Output:
 
-![image_alt]()
+![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/85c1addcbf11b519ef9de9833ed6c51931b8aff8/project_details/Visualisations/barplot.jpg.png)
 
 We can use boxplot to check the distribution of the column.[MILES]
 
