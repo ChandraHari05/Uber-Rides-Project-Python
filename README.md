@@ -205,11 +205,11 @@ Output:
 
 ___Insights from the above plot :___
 
-** The counts are very irregular.
+* **The counts are very irregular.**
 
-** Still its very clear that the counts are very less during Nov, Dec, Jan, which justifies the fact that  time winters are there in Florida, US.
+* **Still its very clear that the counts are very less during Nov, Dec, Jan, which justifies the fact that  time winters are there in Florida, US.**
 
-* Visualization for days data.
+* ___Visualization for days data.___
 
 ```
 dataset['DAY'] = dataset.START_DATE.dt.weekday
@@ -259,12 +259,12 @@ Output:
 
 ![image_alt](https://github.com/ChandraHari05/Uber-Rides-Project-Python/blob/46ee7ace6a9ff631450436a05f65cee9b23c003f/project_details/Visualisations/histoplot.jpg.png)
 
-___Insights from the above plots :___
+# ___Insights from the above plots :___
 
-** Most of the cabs booked for the distance of 4-5 miles.
+* **Most of the cabs booked for the distance of 4-5 miles.**
 
-** Majorly people chooses cabs for the distance of 0-20 miles.
+* **Majorly people chooses cabs for the distance of 0-20 miles.**
 
-** For distance more than 20 miles cab counts is nearly negligible.
+* **For distance more than 20 miles cab counts is nearly negligible.**
 
 <center>THANK YOU</center>
